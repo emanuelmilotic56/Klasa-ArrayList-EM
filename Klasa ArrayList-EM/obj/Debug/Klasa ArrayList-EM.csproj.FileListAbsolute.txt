@@ -1,0 +1,10 @@
+C:\Users\Milotić\source\repos\Klasa ArrayList-EM\Klasa ArrayList-EM\bin\Debug\Klasa ArrayList-EM.exe.config
+C:\Users\Milotić\source\repos\Klasa ArrayList-EM\Klasa ArrayList-EM\bin\Debug\Klasa ArrayList-EM.exe
+C:\Users\Milotić\source\repos\Klasa ArrayList-EM\Klasa ArrayList-EM\bin\Debug\Klasa ArrayList-EM.pdb
+C:\Users\Milotić\source\repos\Klasa ArrayList-EM\Klasa ArrayList-EM\obj\Debug\Klasa ArrayList-EM.csprojAssemblyReference.cache
+C:\Users\Milotić\source\repos\Klasa ArrayList-EM\Klasa ArrayList-EM\obj\Debug\Klasa_ArrayList_EM.form1.resources
+C:\Users\Milotić\source\repos\Klasa ArrayList-EM\Klasa ArrayList-EM\obj\Debug\Klasa_ArrayList_EM.Properties.Resources.resources
+C:\Users\Milotić\source\repos\Klasa ArrayList-EM\Klasa ArrayList-EM\obj\Debug\Klasa ArrayList-EM.csproj.GenerateResource.cache
+C:\Users\Milotić\source\repos\Klasa ArrayList-EM\Klasa ArrayList-EM\obj\Debug\Klasa ArrayList-EM.csproj.CoreCompileInputs.cache
+C:\Users\Milotić\source\repos\Klasa ArrayList-EM\Klasa ArrayList-EM\obj\Debug\Klasa ArrayList-EM.exe
+C:\Users\Milotić\source\repos\Klasa ArrayList-EM\Klasa ArrayList-EM\obj\Debug\Klasa ArrayList-EM.pdb
